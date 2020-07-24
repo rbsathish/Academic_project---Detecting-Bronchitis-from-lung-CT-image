@@ -1,4 +1,4 @@
-#DetectingBronchitis from lung CT image
+#Detecting Bronchitis from lung CT image
 
 A Computer-aided diagnosis(CAD) system is proposed to detect the presence of bronchitis from  lung CT images.
 The CT image of lungs is preprocessed and optimal thresholding based segmentation is done to obtain the lung as a binary image.
